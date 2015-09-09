@@ -1,2 +1,2 @@
-# blog
-Repo for my blog
+This site was built using GitHub pages and Jekyll.
+Theme: dbyll

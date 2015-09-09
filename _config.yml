@@ -28,4 +28,4 @@ categories_path: categories.html
 tags_path: tags.html
 about_path: about.html
 
-BASE_PATH: /blog/
+BASE_PATH: /blog
